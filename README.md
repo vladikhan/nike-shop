@@ -2,7 +2,7 @@
 
 Welcome to **Nike Shoes Online Market** — a sleek, blazing-fast online storefront built with modern frontend tech and serious sneakerhead vibes.
 
-![Screenshot](./screenshots/Screenshot%20Home%20Page.png) <!-- Optional: Add a screenshot of your app -->
+![Screenshot](./screenshots/homePage.png) <!-- Optional: Add a screenshot of your app -->
 
 ---
 
